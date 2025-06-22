@@ -1,4 +1,4 @@
-# MCP Design System Bridge
+# MCP Figma Sync
 
 Este projeto é uma ponte bidirecional entre o Design System e o Figma, permitindo a sincronização automática de componentes entre o código e o design.
 
@@ -31,7 +31,7 @@ A estrutura principal do projeto foi organizada para separar as responsabilidade
 1.  Clone o repositório:
     ```bash
     git clone [URL_DO_REPOSITÓRIO]
-    cd mcp-design-system-bridge
+    cd mcp-figma-sync
     ```
 2.  Instale as dependências:
     ```bash
